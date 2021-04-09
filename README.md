@@ -1,4 +1,4 @@
-    # BugStore
+   # BugStore
 <h1> Giới Thiệu Chức Năng.</h1>
 <h3> Ngôn ngữ : + PHP, Javascript.</h3>
 <h3> Công nghệ : + Jquery, Bootstrap.</h3>
