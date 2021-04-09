@@ -1,7 +1,7 @@
 # BugStore
 # Giới Thiệu Chức Năng
 # Ngôn ngữ : + PHP, Javascript.
-# Công nghệ : + Jquery, Bootstrap.
+<h3> Công nghệ : + Jquery, Bootstrap.</h3>
 
 - Đăng nhập, đăng ký, xem profile.
 -  đổi mật khẩu bằng mail.
